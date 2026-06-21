@@ -12,11 +12,6 @@ Models are designed and sliced for the **Creality Ender-3** (most include ready-
 
 | Model | Folder | Formats | Description |
 |-------|--------|---------|-------------|
-| 🐸 Jumping Frog | [net-models/Jumping Frog](net-models/Jumping%20Frog) | STL | Articulated jumping frog toy |
-| 🦆 King Duck | [net-models/king duck](net-models/king%20duck) | STL | "Shiny Kup" decorative duck cup |
-| 🌀 Fidget Spinner | [net-models/Fidget Spinner](net-models/Fidget%20Spinner) | STL | Three fidget spinner variants |
-| ⚙️ Gear Toy | [net-models/Gear toy](net-models/Gear%20toy) | STL | Mechanical gear toy |
-| 🐱 Cat | [net-models](net-models) | STL, 3MF | `cat30.stl` / `cat31.3mf` cat model |
 | 🦎 Soosmaar (Lizard) | [./soosmaar.stl](soosmaar.stl) | STL | Lizard model |
 | 🧽 SpongeBob | [stamps](stamps) · [./spongebob.stl](spongebob.stl) | STL, Blend | SpongeBob figure & stamp |
 | 💍 Ring | [ring](ring) | STL, Blend | Three ring designs (Ring-A 1–3) |
@@ -58,9 +53,11 @@ Models are designed and sliced for the **Creality Ender-3** (most include ready-
 
 ## 📄 License
 
-All models in this repository are licensed under the **[MIT License](LICENSE)**.
+All models in this repository are **my own original designs**, licensed under the **[MIT License](LICENSE)**.
 
 You are free to **use, copy, modify, distribute, and sell** these models, including for commercial purposes. Attribution is appreciated but not required. The models are provided "as is", without warranty of any kind.
+
+> **Note:** This repository contains only my original work. Third-party models downloaded from sources such as [Creality Cloud](https://www.crealitycloud.com/) are **not** included here — they remain under their original authors' licenses and are kept private.
 
 ---
 

@@ -1,6 +1,12 @@
 # Windows shortcuts (point to external drives, not real models)
 *.lnk
 
+# Third-party models downloaded from Creality Cloud / the internet.
+# These are NOT my original work and their original licenses (e.g. CC BY-NC)
+# do not permit re-publishing under this repo's MIT license.
+# Kept locally for personal printing only — not committed.
+net-models/
+
 # OS / editor cruft
 Thumbs.db
 Desktop.ini
