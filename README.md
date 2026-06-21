@@ -51,16 +51,6 @@ Models are designed and sliced for the **Creality Ender-3** (most include ready-
 
 ---
 
-## 📄 License
-
-All models in this repository are **my own original designs**, licensed under the **[MIT License](LICENSE)**.
-
-You are free to **use, copy, modify, distribute, and sell** these models, including for commercial purposes. Attribution is appreciated but not required. The models are provided "as is", without warranty of any kind.
-
-> **Note:** This repository contains only my original work. Third-party models downloaded from sources such as [Creality Cloud](https://www.crealitycloud.com/) are **not** included here — they remain under their original authors' licenses and are kept private.
-
----
-
 ## 🤝 Contributing
 
 Found a printing issue or have an improved version? Open an issue or pull request — contributions are welcome.
