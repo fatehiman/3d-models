@@ -1,0 +1,10 @@
+# Windows shortcuts (point to external drives, not real models)
+*.lnk
+
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Safety: never commit files larger than 100MB (GitHub hard limit)
+# (none currently present; listed here as a reminder)
